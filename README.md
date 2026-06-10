@@ -61,10 +61,6 @@ Frontend: https://huggingface.co/spaces/runtimeRD/Superkart_Salesrevenue_Fronten
 
 Backend: https://huggingface.co/spaces/runtimeRD/SuperKartSalesRevenuePredictionBackend
 
-## Roadmap (planned UI)
-
-The Flask backend and Streamlit frontend already exist inside the notebook. Next step: extract them into `backend/` and `frontend/` as standalone apps so the model runs without the notebook.
-
 
 ## License
 
