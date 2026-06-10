@@ -56,6 +56,10 @@ pip install -r requirements.txt
 jupyter notebook   # open the notebook in notebooks/
 ```
 
+## Sharing the links of my Hugging Face Spaces
+Frontend: https://huggingface.co/spaces/runtimeRD/Superkart_Salesrevenue_Frontend
+
+Backend: https://huggingface.co/spaces/runtimeRD/SuperKartSalesRevenuePredictionBackend
 
 ## Roadmap (planned UI)
 
