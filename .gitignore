@@ -1,0 +1,25 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Notebook & model artifacts (uncomment if large)
+# *.joblib
+# *.h5
+# *.keras
+
+# Data (uncomment if data should NOT be tracked)
+# data/
